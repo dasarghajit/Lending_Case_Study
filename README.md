@@ -36,7 +36,7 @@ Overall, key risk factors contributing to charge-offs include not verified statu
 
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by Arghajit  and Vaibhav - feel free to contact me!
 
 
 <!-- Optional -->
